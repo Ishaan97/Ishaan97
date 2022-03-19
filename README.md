@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ```javascript
 const ishaan = {
   languages : [Python, JavaScript, Java],
-  tools : [Angular, ReactJS, Node],
+  tools : [Angular, ReactJS],
   currently_learning : [Java Spring Boot, Data Structures, Algorithms],
   to_learn : [Docker, Micro Service Architecture],
 }
